@@ -3,7 +3,6 @@
     "description": "UVDesk Community Helpdesk Core Framework Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
-    "minimum-stability": "stable",
     "authors": [
         {
             "name": "UVdesk Support",
@@ -48,5 +47,6 @@
             "type": "vcs",
             "url": "https://github.com/ksaveras/uvdesk-automation-bundle"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
